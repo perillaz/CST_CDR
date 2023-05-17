@@ -6,5 +6,5 @@ torch: 1.5.1
 #### Run the example:
 `python example_filmtrust.py`
 #### Raw Datasets:
-<http://www.cse.msu.edu/~tangjili/trust.html>
+<http://www.cse.msu.edu/~tangjili/trust.html>  
 <https://guoguibing.github.io/librec/datasets.html>
